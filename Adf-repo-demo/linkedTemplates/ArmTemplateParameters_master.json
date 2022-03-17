@@ -5,6 +5,12 @@
 		"factoryName": {
 			"value": "Adf-repo-demo"
 		},
+		"LinkedserviceADF_accountKey": {
+			"value": ""
+		},
+		"LinkedserviceADF_properties_typeProperties_url": {
+			"value": "https://madfstorage007.dfs.core.windows.net"
+		},
 		"containerUri": {
 			"value": ""
 		},
