@@ -1,0 +1,9 @@
+{
+	"name": "Adf-repo-demo",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "1440d473-7d7b-4aa6-a2d5-1c545b054d92",
+		"tenantId": "38f4cae5-4e0e-4d46-ac9c-0934ebc721d6"
+	}
+}
